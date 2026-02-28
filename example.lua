@@ -1,7 +1,7 @@
 -- YAS UI - Example Usage
 -- This file demonstrates all major features of the YAS UI library
 
-local YAS = loadfile("source.lua")()
+local YAS = loadfile("https://raw.githubusercontent.com/YAS221D/YAS-UI/refs/heads/main/source.lua")()
 
 -- ============================================================================
 -- EXAMPLE 1: Basic Window with Simple Elements
