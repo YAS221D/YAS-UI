@@ -473,7 +473,7 @@ end
 
 -- Print welcome message
 print("YAS UI v" .. YAS.__VERSION .. " loaded successfully!")
-print("Use 'local YAS = loadfile(\"source.lua\")()' to import")
+print("Use 'local YAS = loadfile(\"https://raw.githubusercontent.com/YAS221D/YAS-UI/refs/heads/main/source.lua\")()' to import")
 
 -- ============================================================================
 -- EXPORT
